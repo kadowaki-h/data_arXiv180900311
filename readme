@@ -1,7 +1,7 @@
 
 (1) SQ_el_QSLm0p007_0p1K_IN5_Fig1_fit_dat
 # Experimental data $[S(\bm{Q})]_{\text{el}}$ used for the least squares fit
-# shown in Fig. 1 of arXiv:1809.00311 (HK, MW, BF, JO, SOK, KN, JWL)
+# shown in Fig. 1 of Phys. Rev. B 99, 014406 (2019) (arXiv:1809.00311) (HK, MW, BF, JO, SOK, KN, JWL)
 # Tb2+xTi2-xO7+y  x = -0.007  QSL
 # T = 0.1 K  IN5
 #
@@ -14,7 +14,7 @@
 
 (2) SQ_el_QSLm0p007_0p7K_IN5_Fig4_fit_dat
 # Experimental data $[S(\bm{Q})]_{\text{el}}$ used for the least squares fit
-# shown in Fig. 4 of arXiv:1809.00311 (HK, MW, BF, JO, SOK, KN, JWL)
+# shown in Fig. 4 of Phys. Rev. B 99, 014406 (2019) (arXiv:1809.00311) (HK, MW, BF, JO, SOK, KN, JWL)
 # Tb2+xTi2-xO7+y  x = -0.007  QSL
 # T = 0.7 K  IN5
 #
@@ -27,7 +27,7 @@
 
 (3) SQ_el_QO0p000_0p1K_IN5_Fig5_fit_dat
 # Experimental data $[S(\bm{Q})]_{\text{el}}$ used for the least squares fit
-# shown in Fig. 5 of arXiv:1809.00311 (HK, MW, BF, JO, SOK, KN, JWL)
+# shown in Fig. 5 of Phys. Rev. B 99, 014406 (2019) (arXiv:1809.00311) (HK, MW, BF, JO, SOK, KN, JWL)
 # Tb2+xTi2-xO7+y  x = 0.000  QO
 # T = 0.1 K  IN5
 #
@@ -41,7 +41,7 @@
 (4)
 # SQ_el_QO0p000_0p7K_IN5_Fig6_fit_dat
 # Experimental data $[S(\bm{Q})]_{\text{el}}$ used for the least squares fit
-# shown in Fig. 6 of arXiv:1809.00311 (HK, MW, BF, JO, SOK, KN, JWL)
+# shown in Fig. 6 of Phys. Rev. B 99, 014406 (2019) (arXiv:1809.00311) (HK, MW, BF, JO, SOK, KN, JWL)
 # Tb2+xTi2-xO7+y  x = 0.000  QO
 # T = 0.7 K  IN5
 #
@@ -54,7 +54,7 @@
 
 (5) SQ_el_QO0p003_0p1K_AMA_Fig8_fit_dat
 # Experimental data $[S(\bm{Q})]_{\text{el}}$ used for the least squares fit
-# shown in Fig. 8 of arXiv:1809.00311 (HK, MW, BF, JO, SOK, KN, JWL)
+# shown in Fig. 8 of Phys. Rev. B 99, 014406 (2019) (arXiv:1809.00311) (HK, MW, BF, JO, SOK, KN, JWL)
 # Tb2+xTi2-xO7+y  x = 0.003  QO
 # T = 0.1 K  AMATERAS
 #
